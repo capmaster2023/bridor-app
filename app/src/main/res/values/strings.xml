@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bridor</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="calendar">Calendrier</string>
+    <string name="kronos">Kronos</string>
+    <string name="settings">Paramètres</string>
+    <string name="steps">Pas</string>
+    <string name="distance">Distance</string>
+    <string name="calories">Calories</string>
+    <string name="next_shift">Prochain quart</string>
+    <string name="goal">Objectif</string>
+    <string name="punch_in">Punch In</string>
+    <string name="punch_out">Punch Out</string>
+    <string name="break">Pause</string>
+    <string name="absences">Absences</string>
+    <string name="sync">Synchroniser</string>
+    <string name="kronos_url">URL Kronos</string>
+    <string name="step_goal">Objectif de pas</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="export_data">Exporter les données</string>
+</resources>
